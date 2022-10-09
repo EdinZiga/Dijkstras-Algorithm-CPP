@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1621956848 source:c:\users\zmcdo\desktop\desktop v14\projects\projects\math209project\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<vector>
+	<bits/stdc++.h>
+	<string>
+	<strstream>
+	<sstream>
+
+1621961661 source:c:\users\edin's pc\desktop\projects to sort\projects\math209project\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<vector>
+	<bits/stdc++.h>
+	<string>
+	<strstream>
+	<sstream>
+
+1621961661 source:c:\users\edin's pc\desktop\math209project\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<vector>
+	<bits/stdc++.h>
+	<string>
+	<strstream>
+	<sstream>
+
